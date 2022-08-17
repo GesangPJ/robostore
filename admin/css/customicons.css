@@ -1,0 +1,12 @@
+.i add-circle {
+    background-image : url:("admin/icons/add-circle.svg");
+    
+}
+.i material-warning{
+    background-image : url:("admin/icons/material-warning.svg");
+    size : 10px;
+}
+.i add-library:before{
+    backround-image: url:("admin/icons/add-library.png");
+    size : 8px;
+}
